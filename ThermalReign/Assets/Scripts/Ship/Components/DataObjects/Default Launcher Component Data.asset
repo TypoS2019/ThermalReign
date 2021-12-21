@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52688a28bd271dc41b6c4b2331b541b0, type: 3}
+  m_Name: Default Launcher Component Data
+  m_EditorClassIdentifier: 
+  maxPowerInput: 100
+  efficiency: 0.5
+  launchTime: 0.1
+  launchCooldown: 1
+  launchDistance: 10
+  reloadCooldown: 20
+  magazineSize: 10
+  reloadToPowerRatio: 5
+  maxOrders: 5
+  projectile: {fileID: 7330019011342762401, guid: f9b6823240c7ddc4bb0916bb80411bfa, type: 3}

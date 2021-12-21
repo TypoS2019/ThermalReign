@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9a10fd666959b2479876b26c379cd06, type: 3}
+  m_Name: Default Reaction Control Component Data
+  m_EditorClassIdentifier: 
+  maxPowerInput: 100
+  efficiency: 0.95
+  directionalForceToPowerRatio: 2.5
+  angularForceToPowerRatio: 1
+  directionalForce: 30
+  angularForce: 50
